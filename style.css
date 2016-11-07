@@ -1,0 +1,271 @@
+
+/* 
+ *	Name: Responsive layout;
+ *	Author: Andor Nagy;
+ *	Website : andornagy.com;
+ *	
+------------------------------------------
+ * 
+ *	Responsive Layout is lightweight css and html layout 
+ *	that can help you kickstart your website development.
+ *
+ *	You are free to use this framework for you own projects
+ *	and for client works. Credit is always welcome.
+ *
+ *	DO NOT sell it as your own work.
+ *  
+--------------------------------------------- */
+
+
+
+/* General Styles
+--------------------------------------------- */
+
+body {
+	margin: 10;
+	padding: 0;
+}
+
+/* Tablas
+--------------------------------------------- */
+
+
+    .tg {border-collapse:collapse;border-spacing:0;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;color:#000000;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;color:#00BBF1;font-weight:normal;background-image: url(GOW_001.jpg) ;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+    .tg .tg-yw4l{vertical-align:top;}
+
+
+/* Imports
+--------------------------------------------- */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+
+
+/* Helper Classes
+--------------------------------------------- */
+
+.clearfix {
+	display: block;
+	clear: both;
+}
+
+
+/* Typography
+--------------------------------------------- */
+
+body {
+	font-size:18px;
+	line-height: 32px;
+	color: #333;
+	word-wrap:break-word !important;
+	font-family: 'Open Sans', sans-serif;
+
+        background-image: url(fondo_gear.jpg);
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-attachment: fixed;
+}
+
+p {
+	margin: 0 0 24px;
+	margin: 0 0 2.4rem;
+	padding: 0;
+        color: #000004;
+}
+
+div {
+	color: #8900FF;
+}
+
+/* Links
+--------------------------------------------- */
+
+a {
+	text-decoration: none;
+	color: #FF5722
+}
+
+a:hover {
+	text-decoration: underline; 
+	color: #E64A19;
+}
+
+
+
+/* Headings
+--------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #333;
+	font-family: "Roboto Slab", sans-serif;
+	font-weight: 700;
+	line-height: 1.2;
+	margin: 0 0 16px;
+}
+
+h1 {
+	font-size: 40px;
+        color: #26D145;
+}
+
+h2 {
+	font-size: 30px;
+	color: #196BE1;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+h5 {
+	font-size: 18px;
+}
+
+h6 {
+	font-size: 16px;
+}
+
+
+
+/* Sections
+--------------------------------------------- */
+
+#container{
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+
+
+/* Header
+--------------------------------------------- */
+
+header {
+	width: 94%;
+	padding: 3%;
+	background-image: url(GOW_001.jpg);
+	
+}
+
+header #title {
+	font-size: 40px;
+	color: #fff;
+	font-family: 'Times new romance', sans-serif;
+}
+
+
+
+/* Navigation
+--------------------------------------------- */
+
+nav {
+	width: 97%;
+	background-image: url(GOW_001.jpg);
+	padding: 0 1.5% 0 1.5%;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 15px 1.5% 15px 1.5% ;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #00C0E7;
+	font-size: 1.2em;
+}
+
+nav ul li a:hover {
+	color: #76DF00;
+	text-decoration: none;
+}
+
+
+
+/* Content
+--------------------------------------------- */
+
+#content {
+	float: left;
+	padding: 3%;
+	width: 66%;
+}
+
+
+
+/* Sidebar
+--------------------------------------------- */
+
+aside {
+	float: right;
+	padding: 3%;
+	width: 22%;
+	background-image: url(historia_fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: right-center;
+	 background-attachment: fixed;
+}
+
+
+
+/* Footer
+--------------------------------------------- */
+
+footer{
+	width: 90%;
+	padding: 5%;
+	background-image: url(Captura_gear02.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+	
+}
+
+
+
+/* Media Queries
+--------------------------------------------- */
+
+@media all and (max-width : 768px) {
+
+	header {
+		text-align: center;
+	}
+
+	nav {
+		text-align: center;
+	}
+
+	#content {
+		width: 94%;
+		padding: 3%;	
+	}
+
+	#sidebar {
+		width: 94%;
+		padding: 3%;
+		border-top: 3px solid #E64A19;
+	}
+
+}
+/*
+@media all and (max-width : 330px) {
+
+	nav ul li {
+		display:block;
+		width: 94%;
+	}
+
+}
+*/
