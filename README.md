@@ -17,3 +17,8 @@ frecuentes y un emocionante panorama competitivo, League of Legends ofrece posib
 niveles de habilidad.
 
 ![Imagen de LOL](http://www.elotrolado.net/w/images/1/12/League_of_Legends_Logo.png)
+
+### CLASH ROYALE
+¡Atrévete a pisar la arena! De los creadores de Clash of Clans, llega Clash Royale, un juego multijugador en tiempo real protagonizado por tus personajes favoritos de Clash, además de por nobles y muchos otros elementos.
+
+Consigue y mejora una gran variedad de cartas de las tropas, hechizos y defensas de Clash of Clans y de los personajes nobles, entre los que se encuentran el príncipe, el caballero y el bebé dragón. Destruye las torres enemigas del rey y de las princesas para vencer a tu rival y ganar trofeos, coronas y gloria en la arena. Forma un clan para compartir cartas y levanta tu propia comunidad de batalla.
