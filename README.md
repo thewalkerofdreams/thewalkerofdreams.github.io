@@ -15,3 +15,5 @@ real (ETR) con elementos de juegos de rol. Dos equipos de poderosos campeones, c
 cara a cara a través de diversos campos de batalla y modos de juego. Con un plantel de campeones en constante expansión, actualizaciones 
 frecuentes y un emocionante panorama competitivo, League of Legends ofrece posibilidades de juego ilimitadas a usuarios de todos los 
 niveles de habilidad.
+
+![Imagen de LOL](http://www.elotrolado.net/w/images/1/12/League_of_Legends_Logo.png)
