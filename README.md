@@ -28,5 +28,5 @@ Consigue y mejora una gran variedad de cartas de las tropas, hechizos y defensas
 ### *Juegos Clasicos*
 Tambien veremos una recopilacion de juegos clasicos como lo son el Super Mario Bros, sonic y mas.
 
-![Imagen de Clasicos](http://www.supermario3editable.com/recursos/imagenes/contenido/logo-smb3.png)
+![Imagen de Clasicos](http://vignette3.wikia.nocookie.net/logopedia/images/2/21/Super_Mario_Logo.PNG/revision/latest?cb=20140412154550)
 ![Imagen de Clasicos](https://www.minijuegosgratis.com/v3/games/thumbnails/205296_1.jpg)
