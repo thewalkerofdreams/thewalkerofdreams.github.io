@@ -1,4 +1,4 @@
-# **The GNU License (GPL)**
+﻿# **The GNU License (GPL)**
 
 Copyright (c) 2016 2º CFGM
 
