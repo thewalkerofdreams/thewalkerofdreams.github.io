@@ -17,5 +17,5 @@
 | Trujillo Navarro, Miguel           | Coordinador    |
 | Valle Sáez, Francisco              | HTML           |
 | Zurita Ávalos, Luis Ángel          | Documentación  |
-|------------------------------------|----------------|
+
 
