@@ -26,7 +26,7 @@ Consigue y mejora una gran variedad de cartas de las tropas, hechizos y defensas
 ![Imagen de LOL](http://sudamericanmasterleague.s3.amazonaws.com/2016/06/06/04/55/16/da736d4f-20c3-44a3-a22b-2309196bafa5/jXF32Q1.png)
 
 ### *Juegos Clasicos*
-Tambien veremos juegos clasicos como lo son el Super Mario Bros, sonic y mas.
+Tambien veremos una recopilacion de juegos clasicos como lo son el Super Mario Bros, sonic y mas.
 
 ![Imagen de Clasicos](http://www.supermario3editable.com/recursos/imagenes/contenido/logo-smb3.png)
-![Imagen de Clasicos](http://4.bp.blogspot.com/_GJHAezShK6I/StH_cvH-6aI/AAAAAAAAEpA/g1CRPMfnfsw/s320/uberpk2.png)
+
