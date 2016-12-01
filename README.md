@@ -24,3 +24,8 @@ niveles de habilidad.
 Consigue y mejora una gran variedad de cartas de las tropas, hechizos y defensas de Clash of Clans y de los personajes nobles, entre los que se encuentran el príncipe, el caballero y el bebé dragón. Destruye las torres enemigas del rey y de las princesas para vencer a tu rival y ganar trofeos, coronas y gloria en la arena. Forma un clan para compartir cartas y levanta tu propia comunidad de batalla.
 
 ![Imagen de LOL](http://sudamericanmasterleague.s3.amazonaws.com/2016/06/06/04/55/16/da736d4f-20c3-44a3-a22b-2309196bafa5/jXF32Q1.png)
+
+### *Juegos Clasicos*
+Tambien veremos juegos clasicos como lo son el Super Mario Bros, sonic y mas.
+
+![Imagen de Clasicos](http://www.supermario3editable.com/recursos/imagenes/contenido/logo-smb3.png)
