@@ -29,4 +29,4 @@ Consigue y mejora una gran variedad de cartas de las tropas, hechizos y defensas
 Tambien veremos juegos clasicos como lo son el Super Mario Bros, sonic y mas.
 
 ![Imagen de Clasicos](http://www.supermario3editable.com/recursos/imagenes/contenido/logo-smb3.png)
-![Imagen de Clasicos](http://pegatineando.com/image/cache/data/Cosas%20nuevas/comecocos-[Convertido]-500x500.png)
+![Imagen de Clasicos](http://www.juegosdb.com/wp-content//2013/01/comecocos-pacman-279x158.jpg)
