@@ -1,4 +1,4 @@
-**The GNU License (GNU)**
+# **The GNU License (GNU)**
 
 Copyright (c) 2015 Rodney Rehm
 This program is free software: you can redistribute it and/or modify
