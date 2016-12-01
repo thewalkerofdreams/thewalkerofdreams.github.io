@@ -1,4 +1,4 @@
-# TheWalkerOfDreams.github.io    MOI CARA WEBO
+# TheWalkerOfDreams.github.io    
 ## Descripción de la web
 En esta pagina encontraras información sobre varios juegos: World of Warcraft, League of Legends, Clash Royale y varios juegos clasicos.
 
