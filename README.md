@@ -26,6 +26,10 @@ Consigue y mejora una gran variedad de cartas de las tropas, hechizos y defensas
 ![Imagen de LOL](http://sudamericanmasterleague.s3.amazonaws.com/2016/06/06/04/55/16/da736d4f-20c3-44a3-a22b-2309196bafa5/jXF32Q1.png)
 
 ### *Juegos Clasicos*
-Tambien veremos una recopilacion de juegos clasicos como lo son el Super Mario Bros, sonic y mas.
+Tambien veremos una recopilacion de juegos clasicos como lo son:
+
+Super Mario Bros: Es un videojuego de plataformas, diseñado por Shigeru Miyamoto, lanzado el 13 de septiembre de 1985 y producido por la compañía Nintendo, para la consola Nintendo Entertainment System.
+
+Sonic: En 1991 salío Sonic the Hedgehog, el primer juego de la serie para la Sega Mega Drive. El juego contaba con un motor revolucionario y un diseño de nivel muy avanzado para la época. Sonic tenía que luchar contra el Dr. Robotnik al terminar cada fase. Debido a que el juego fue bastante exitoso, Sonic se convirtió en la "mascota" de Sega.
 
 ![Imagen de Clasicos](http://i40.tinypic.com/2hzjw2t.jpg)
