@@ -29,11 +29,11 @@ a:hover {
 }
 @font-face {
     font-family: 'Share-Regular';
-    src:url(../fonts/Share-Regular.ttf) format('truetype');
+    src:url(../../fonts/Share-Regular.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'HindVadodara-Regular';
-    src:url(../fonts/HindVadodara-Regular.ttf) format('truetype');
+    src:url(../../fonts/HindVadodara-Regular.ttf) format('truetype');
 }
 /*--header start here--*/
 /*--header start here--*/
@@ -73,7 +73,7 @@ span.menu {
     
 }
 span.logo-clr {
-    color: #CF0C68;
+    color: #74DF00;
     font-size: 1.2em;
     display: inline-block;
     line-height: 0.7em;
@@ -135,7 +135,7 @@ nav a:focus {
 /*--header end here--*/
 /*--banner strat here--*/
 .banner {
-    background: url(../images/banner.jpg)no-repeat;
+    background: url(../jpg/Index_imageninicio.jpg)no-repeat;
     min-height: 725px;
     background-size: cover;
 }
@@ -147,7 +147,7 @@ nav a:focus {
     font-size: 1em;
     color: #fff;
     padding: 0.5em 1em;
-    background: #CF0C68;
+    background: #04B4AE;
     display: inline-block;
     font-family: 'HindVadodara-Regular';
     text-transform: uppercase;
@@ -174,7 +174,7 @@ nav a:focus {
 }
 .about-top-w3l h3 {
     font-size: 3em;
-    color:#CF0C68;
+    color:#74DF00;
     margin-bottom: 0.2em;
     font-family: 'Share-Regular';
 }
@@ -908,6 +908,13 @@ ul#slider p {
 }
 
 /*-- responsive-mediaqueries --*/
+
+
+
+
+
+
+
 
 
 @media (max-width:480px){

@@ -8,19 +8,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 
 /* pruebas de vision***paco****************************************/
-#prueba {
-color: red;
-}
+
 
 /*PRUEBA DE BANNER*/
 
 #comienzo {
-    background: url(src/jpg/cla_banner.jpg)no-repeat;
-    /*background-color: yellow;*/
-    color: red;
+    background: url(../jpg/cla_banner.jpg)no-repeat;
+    border: 4px solid red;
+  
     background-size: 100%;
     min-height: 725px;
-    border: 1px solid red:
+  
    
     
 }
