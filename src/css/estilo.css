@@ -139,6 +139,31 @@ nav a:focus {
     min-height: 725px;
     background-size: cover;
 }
+
+#comienzo_clasicos {
+    background: url(../jpg/cla_banner.jpg)no-repeat;
+    background-size: 100%;
+    min-height: 725px;
+}
+
+#comienzo_wow {
+    background: url(../jpg/wowban.jpg)no-repeat;
+    background-size: 100%;
+    min-height: 725px;
+}
+
+#comienzo_lol {
+    background: url(../png/lolportada.png)no-repeat;
+    background-size: 100%;
+    min-height: 725px;
+}
+
+#comienzo_royale {
+    background: url(../jpg/royale_portada.jpg)no-repeat;
+    background-size: 100%;
+    min-height: 725px;
+}
+
 .banner-main {
     padding-top: 20em;
         text-align: center;
