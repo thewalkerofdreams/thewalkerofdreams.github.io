@@ -12,6 +12,7 @@ html, body{
   font-family: 'HindVadodara-Regular';
    font-size: 100%;
    background:#fff; 
+ 
 }
 a {
   text-decoration: none;
@@ -155,7 +156,7 @@ nav a:focus {
 #comienzo_lol {
     background: url(../png/lolportada.png)no-repeat;
     background-size: 100%;
-    min-height: 725px;
+   
 }
 
 #comienzo_royale {
@@ -188,6 +189,8 @@ nav a:focus {
     width: 60%;
     margin: 0 auto;
     font-family: 'Share-Regular';
+    margin-top: 250px;
+    
 }
 /*--banner end here--*/
 /*--about start here--*/
