@@ -12,6 +12,7 @@ html, body{
   font-family: 'HindVadodara-Regular';
    font-size: 100%;
    background:#fff; 
+ 
 }
 a {
   text-decoration: none;
@@ -188,6 +189,8 @@ nav a:focus {
     width: 60%;
     margin: 0 auto;
     font-family: 'Share-Regular';
+    margin-top: 250px;
+    
 }
 /*--banner end here--*/
 /*--about start here--*/
