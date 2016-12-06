@@ -331,7 +331,7 @@ nav a:focus {
 /*-- w3layouts --*/
 .team-text h3 {
     font-size: 1.2em;
-    color: #CF0C68;
+    color: #5FB404;
     background: #fff;
     padding: 0.7em 1em;
     display: inline-block;
@@ -551,6 +551,12 @@ span.d3-work {
     line-height: 1.8em;
     margin-top: 0.5em;
 }
+.design2-grid-left ul li {
+    font-size: 1em;
+    color:#E0E0E0;
+    
+}
+
 /*--design2 end here--*/
 /*--gallery--*/
 .gallery-top{
