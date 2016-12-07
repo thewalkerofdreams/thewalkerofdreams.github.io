@@ -317,7 +317,7 @@ nav a:focus {
     background-position:-47px 6px;
 }
 .team-img ul.team-mem li a:hover {
-    background: url(../images/t-icons.png)no-repeat #CF0C68;
+    background: url(../images/t-icons.png)no-repeat #5FB404;
 }
 .team-img ul.team-mem li a.fa:hover {
     background-position: 12px -25px;
