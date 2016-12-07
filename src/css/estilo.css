@@ -1081,7 +1081,7 @@ ul#slider p {
     border: none;
     margin: 1em auto 0em;
     outline: none;
-    background: #CF0C68;
+    background: #5FB404;
     border-radius: 3px;
     text-align: center;
     width: 14%;
@@ -1145,7 +1145,7 @@ ul.faq {
 /*--map end here--*/
 /*--footer nav start here--*/
 .footer {
-    background: #74DF00;
+    background: #5FB404;
     text-align: center;
 }
 .footer-main ul {
