@@ -425,6 +425,12 @@ nav a:focus {
 .ser-grid {
     margin-bottom: 1em;
 }
+
+.ser-grid img {
+    width: 65px;
+    height: 65px;
+}
+
 .ser-text h4 {
     font-size: 1.2em;
     color:#74DF00;
