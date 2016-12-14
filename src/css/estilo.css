@@ -1038,6 +1038,7 @@ ul#slider p {
 /*--get in touch--*/
 .get-touch {
     padding: 5em 0em;
+    clear: both;
 }
 .get-touch-top {
     text-align: center;
