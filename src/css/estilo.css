@@ -813,6 +813,9 @@ h2.resp-accordion {
 	padding: 5px;
 	display: none;
 }
+h2royale {
+color: #333;
+}
 .resp-tab-content {
 	display: none;
 }
@@ -1038,6 +1041,7 @@ ul#slider p {
 /*--get in touch--*/
 .get-touch {
     padding: 5em 0em;
+    clear: both;
 }
 .get-touch-top {
     text-align: center;
@@ -1160,6 +1164,7 @@ ul.faq {
 .footer {
     background: #5FB404;
     text-align: center;
+    clear: both;
 }
 .footer-main ul {
     padding: 0px;
