@@ -813,6 +813,9 @@ h2.resp-accordion {
 	padding: 5px;
 	display: none;
 }
+h2royale {
+color: #333;
+}
 .resp-tab-content {
 	display: none;
 }
