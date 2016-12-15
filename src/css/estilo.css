@@ -569,6 +569,18 @@ span.d3-work {
     
 }
 
+.h2royale { 
+    font-size: 3em;
+	color:#CF0C68;
+	font-family: 'Share-Regular';
+}
+
+.tvroyale {
+    width: 631px;
+    height: 400px;
+}
+
+
 /*--design2 end here--*/
 /*--gallery--*/
 .gallery-top{
